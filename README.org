@@ -27,7 +27,7 @@ The main features (different from MADRL and that of [[MADDPG][https://github.com
 * 4. Install
 
 - Install [[https://github.com/sisl/MADRL][MADRL]].
-- Replace the =madrl_environments/pursuit= directory with the one in this repo.
+- Replace the files in =madrl_environments/pursuit= directory with the ones in this repo.
 - =python main.py= will run the training.
 
 
